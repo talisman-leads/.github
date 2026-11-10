@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://talismanleads.io"><img src="https://raw.githubusercontent.com/talisman-leads/.github/main/profile/logo.png" width="88" height="88" alt="TalismanLeads"></a>
-</p>
+<a href="https://talismanleads.io"><img src="https://raw.githubusercontent.com/talisman-leads/.github/main/profile/banner.png" width="100%" alt="TalismanLeads: check phone numbers and emails before you reach out"></a>
 
-<h2 align="center">TalismanLeads</h2>
-
-<p align="center"><strong>Bulk phone, email and carrier checks, from a website, a Telegram bot or a REST API.</strong></p>
+**Bulk phone, email and carrier checks, from a website, a Telegram bot or a REST API.**
 
 Find out which numbers are on WhatsApp, Telegram or iMessage, which emails have a LinkedIn or PayPal account, and which carrier and line type each number has, from a few hundred entries to millions. Pay as you go from one balance, at the same price wherever you order.
 
